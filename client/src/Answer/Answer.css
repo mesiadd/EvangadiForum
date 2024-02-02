@@ -1,0 +1,18 @@
+.all {
+    display: flex;
+    justify-content: flex-start;
+}
+.img_and_username {
+    max-width:  110px;
+}
+.answer {
+    margin-left: 5px;
+    /* margin-right: 5px; */
+    margin-top: 40px;
+
+}
+
+.userName {
+    margin-left: 25px;
+}
+
